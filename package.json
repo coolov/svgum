@@ -1,0 +1,19 @@
+{
+  "name": "svglue",
+  "version": "1.0.0",
+  "main": "src/transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "svglue": "./bin/cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^6.0.0",
+    "postcss-import-url": "^5.1.0",
+    "postcss-js": "^2.0.3"
+  }
+}
