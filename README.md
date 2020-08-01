@@ -8,7 +8,7 @@ Tool for fetching and inlining webfonts into SVG documents
 npm install -g svget
 ```
 
-# Use
+## Use
 
 ```
 svget <source> <target>
