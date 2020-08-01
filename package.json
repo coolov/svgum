@@ -1,9 +1,9 @@
 {
-  "name": "svglue",
-  "version": "0.0.1",
+  "name": "svget",
+  "version": "0.0.2",
   "main": "src/transform.js",
   "bin": {
-    "svglue": "./bin/cli.js"
+    "svget": "./bin/cli.js"
   },
   "author": "olov",
   "license": "kopimi",

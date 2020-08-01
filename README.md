@@ -1,4 +1,4 @@
-# svglue
+# svget
 
 Tool for inlining webfonts into SVG
 
