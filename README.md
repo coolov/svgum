@@ -1,15 +1,15 @@
 # svget
 
-Tool for inlining webfonts into SVG
+Tool for fetching and inlining webfonts into SVG documents
 
 ## Install
 
 ```
-npm install -g svglue
+npm install -g svget
 ```
 
 # Use
 
 ```
-svglue <source> <target>
+svget <source> <target>
 ```
