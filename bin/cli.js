@@ -70,7 +70,7 @@ async function run(source, target, { debug, deoptimize }) {
 }
 
 program
-  .version("0.0.1")
+  .version(require("../package.json").version)
   .arguments("<source> <target>")
   .option("--debug", "include stacktrace in errors")
   .option("--deoptimize", "embed fonts without optimizations")
