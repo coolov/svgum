@@ -1,15 +1,15 @@
-# svget
+# svgum
 
 Tool for fetching and inlining webfonts into SVG documents
 
 ## Install
 
 ```
-npm install -g svget
+npm install -g svgum
 ```
 
 # Use
 
 ```
-svget <source> <target>
+svgum <source> <target>
 ```

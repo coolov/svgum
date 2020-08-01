@@ -1,10 +1,19 @@
 {
-  "name": "svget",
-  "version": "0.0.7",
+  "name": "svgum",
+  "version": "0.0.2",
   "main": "src/transform.js",
   "bin": {
     "svget": "./bin/cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolov/svgum"
+  },
+  "keywords": [
+    "svg",
+    "webfont",
+    "font"
+  ],
   "author": "olov",
   "license": "kopimi",
   "dependencies": {
