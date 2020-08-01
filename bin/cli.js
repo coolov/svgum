@@ -44,7 +44,7 @@ function printStats(stats) {
 
   {
     // font table
-    if (n) {
+    if (fonts.length) {
       log(u("Name"), space(13), u("kB"), space(5), u("chars"));
       for (const { name, size, text } of fonts) {
         log(name.padEnd(16), kB(size).padEnd(6), text);
