@@ -1,6 +1,6 @@
 {
   "name": "svget",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "src/transform.js",
   "bin": {
     "svget": "./bin/cli.js"
