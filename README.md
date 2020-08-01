@@ -8,7 +8,7 @@ Tool for fetching and inlining webfonts into SVG documents
 npm install -g svgum
 ```
 
-# Use
+## Use
 
 ```
 svgum <source> <target>
