@@ -1,6 +1,6 @@
 # svgum
 
-Tool for fetching and inlining webfonts into SVG documents
+A tool for gluing webfonts into SVG documents
 
 ## Install
 
