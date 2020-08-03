@@ -9,7 +9,7 @@ Data URLs in the SVG document.
 
 Before and after:
 
-<img src="before-after.png"/>
+<img src="before-after.png" style="max-width:700px"/>
 
 ## Usage
 
