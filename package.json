@@ -1,9 +1,12 @@
 {
   "name": "svgum",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "src/transform.js",
   "bin": {
     "svget": "./bin/cli.js"
+  },
+  "scripts": {
+    "server": "cd test && python -m SimpleHTTPServer 8000"
   },
   "repository": {
     "type": "git",
