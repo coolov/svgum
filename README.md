@@ -23,7 +23,7 @@ svgum <source> <target>
 The tool infers which letters are used by scanning the SVG for font definitions. The letters are then [passed to Google Fonts](https://fonts.googleblog.com/2011/04/streamline-your-web-font-requests.html) so the most optimized font files can be returned. This optimization results in a dramatically smaller file size.
 
 ```
-$ svglue test/before.svg test/after.svg
+$ svgum test/before.svg test/after.svg
 
  Result: Embedded 6 fonts (+26kB)
 
