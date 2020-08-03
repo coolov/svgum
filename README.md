@@ -1,6 +1,6 @@
 # svgum
 
-A tool for gluing webfonts into SVG documents
+A tool for gluing webfonts to SVGs
 
 SVGs with linked webfonts [do](https://css-tricks.com/using-custom-fonts-with-svg-in-an-image-tag/) [not](https://graphicdesign.stackexchange.com/questions/5162/how-do-i-embed-google-web-fonts-into-an-svg) [work](https://www.w3.org/wiki/SVG_Security) in `<img>` tags. You will likely run into this issue when using SVGs from tools like [diagrams.net](https://app.diagrams.net/) in your HTML.
 
