@@ -1,9 +1,9 @@
 {
   "name": "svgum",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "main": "src/transform.js",
   "bin": {
-    "svget": "./bin/cli.js"
+    "svgum": "./bin/cli.js"
   },
   "repository": {
     "type": "git",
