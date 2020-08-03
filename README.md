@@ -27,7 +27,7 @@ $ svglue test/before.svg test/after.svg
 
  Result: Embedded 6 fonts (+26kB)
 
- Name             kB      chars
+ Name              kB     chars
  Orbitron          3      .ACEFIOP☕
  Notable           4      .Mbdefloru
  DM Serif Display  4      .Aabceilnoptw
