@@ -5,6 +5,9 @@
   "bin": {
     "svgum": "./bin/cli.js"
   },
+  "scripts": {
+    "server": "cd test && python -m SimpleHTTPServer 8000"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/coolov/svgum"
